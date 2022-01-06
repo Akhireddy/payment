@@ -2,7 +2,7 @@
 
 // Variables
 env.COMPONENT = "payment"
-env.BUILD_LABEL = "WORKSTATION"
+env.BUILD_LABEL = "WORKER2"
 
 // Library Groovy file
 python()
